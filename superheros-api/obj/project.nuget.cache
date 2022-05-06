@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "edZgmCyRzhQ3ptRiVxRjeHBHKyaUuM2/IwTl5OKBgN9sEShSalnH0+pt6ni1Wvx4rhZT8bEr+ZcLP02+K1n+Og==",
+  "dgSpecHash": "rBwfwT8Bjf71EJJZsGLNuu/9rKR++x4IM9t5Erb5CAtH6eFd/yd2As4j5HlUKsUSO42pZp+1NcBwHJX33hO68A==",
   "success": true,
-  "projectFilePath": "/Users/zacharybrown/Workspace/test_api/superheros-api/test_api.csproj",
+  "projectFilePath": "/Users/zacharybrown/Workspace/test_api/test_api.csproj",
   "expectedPackageFiles": [
     "/Users/zacharybrown/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/Users/zacharybrown/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",

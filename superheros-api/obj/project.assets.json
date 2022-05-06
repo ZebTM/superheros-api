@@ -2026,11 +2026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zacharybrown/Workspace/test_api/superheros-api/test_api.csproj",
+      "projectUniqueName": "/Users/zacharybrown/Workspace/test_api/test_api.csproj",
       "projectName": "test_api",
-      "projectPath": "/Users/zacharybrown/Workspace/test_api/superheros-api/test_api.csproj",
+      "projectPath": "/Users/zacharybrown/Workspace/test_api/test_api.csproj",
       "packagesPath": "/Users/zacharybrown/.nuget/packages/",
-      "outputPath": "/Users/zacharybrown/Workspace/test_api/superheros-api/obj/",
+      "outputPath": "/Users/zacharybrown/Workspace/test_api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zacharybrown/.nuget/NuGet/NuGet.Config"

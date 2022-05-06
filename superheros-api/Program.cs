@@ -1,18 +1,18 @@
 global using SuperHeroAPI.Data;
 global using Microsoft.EntityFrameworkCore;
-using Npgsql;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-var stringBuilder = new NpgsqlConnectionStringBuilder()
-{
-    Host = "localhost",
-    Port = 5432,
-    Username = "postgres",
-    Password = "password",
-    Database = "superheros_app"
-}
+// var stringBuilder = new NpgsqlConnectionStringBuilder()
+// {
+//     Host = "localhost",
+//     Port = 5432,
+//     Username = "postgres",
+//     Password = "password",
+//     Database = "superheros_app"
+// }
 
 builder.Services.AddControllers();
 builder.Services.AddDbContext<DataContext>(options => 
