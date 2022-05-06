@@ -1,7 +1,7 @@
 {
     "name": "superheroes-api",
     "license": "MIT",
-    "repository": "git",
+    "repository": "git@github.com:ZebTM/superheros-api.git",
     "scripts": {
         "migrations": "./node_modules/.bin/postgrator -c postgrator.json"
     },
